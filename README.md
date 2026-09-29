@@ -23,5 +23,3 @@ significance test rather than just the point estimate.
 is large and significant (t=8.38); the post-earnings-drift test comes
 out null, checked against a synthetic panel with a known effect first
 so the null is trustworthy rather than just a bug.
-
-Currently prepping for 2027 quant/markets internship applications.
