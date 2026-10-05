@@ -2,8 +2,8 @@
 
 Business Engineering (Financial Engineering track) student at KU
 Leuven, BSc, expected June 2027. I build quant-finance projects from
-scratch to actually learn the material — pricing, backtesting,
-empirical methodology — rather than follow tutorials.
+scratch to actually learn the material such as pricing, backtesting,
+and empirical methodology rather than follow tutorials.
 
 **[american-option-pricing](https://github.com/BriekVandenBerg/american-option-pricing)**
 — LSM Monte Carlo pricer for American options on WTI crude futures,
